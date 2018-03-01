@@ -1,0 +1,10 @@
+First commit :
+The main blueprint : Multi-Gate 
+For the rotation: I used a Matinee
+Power bar : Floats + / - Compare
+Second Commit 01/03/18 : 
+Updated Power Bar , Rotation (Filling Faster / Stopping at the same time as rotation.)
+Created a Shooting Function (You cannot spam projectiles anymore.)
+Created Score HUD
+
+
