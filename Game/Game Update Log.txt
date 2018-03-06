@@ -6,5 +6,7 @@ Second Commit 01/03/18 :
 Updated Power Bar , Rotation (Filling Faster / Stopping at the same time as rotation.)
 Created a Shooting Function (You cannot spam projectiles anymore.)
 Created Score HUD
-
+Third Commit 06/03/18 :
+Updated Rotation (Spawning the projectile corectly)
+Implemented 2-nd player score / Turn
 
