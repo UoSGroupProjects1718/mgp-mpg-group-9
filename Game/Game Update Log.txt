@@ -1,5 +1,5 @@
 First commit :
-The main blueprint : Multi-Gate 
+The main blueprint : Multi-Gate / Flip-Flop
 For the rotation: I used a Matinee
 Power bar : Floats + / - Compare
 Second Commit 01/03/18 : 
@@ -9,4 +9,8 @@ Created Score HUD
 Third Commit 06/03/18 :
 Updated Rotation (Spawning the projectile corectly)
 Implemented 2-nd player score / Turn
+Forth Commit 20/03/18 :
+Updated Shooting Function (Lock the angle , then the power bar , then its spawing the projectile automatically)
+
+
 
