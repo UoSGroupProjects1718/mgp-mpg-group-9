@@ -11,6 +11,7 @@ Updated Rotation (Spawning the projectile corectly)
 Implemented 2-nd player score / Turn
 Forth Commit 20/03/18 :
 Updated Shooting Function (Lock the angle , then the power bar , then its spawing the projectile automatically)
-
+Fifth Commit 17/04/18
+Updated Widgets / Win Condition / Turns
 
 
